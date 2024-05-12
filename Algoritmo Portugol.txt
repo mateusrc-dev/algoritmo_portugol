@@ -1,0 +1,21 @@
+1. abrir os olhos
+2. colocar a mão no celular
+3. segurar o celular
+4. tocar o botão para desligar o despertador
+5. colocar os pés no chão
+6. levantar-se da cama
+7. andar até a porta
+8. se a porta estiver fechada
+	1. ir pegar a chave na gaveta
+	2. abrir a gaveta
+	3. pegar a chave
+	4. ir até a porta com a chave
+	5. colocar a chave na fechadura 
+	6. rodar a chave
+	7. colocar a mão na maçaneta
+	8. girar a maçaneta
+	9. empurrar a porta
+8. se a porta estiver aberta
+	1. colocar a mão na maçaneta
+	2. girar a maçaneta
+	3. empurrar a porta
